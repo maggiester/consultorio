@@ -7,5 +7,12 @@
         public $email;
         public $dataNascimento;
         public $endereco;
+
+        public function cadastrar(){
+
+        }
+        public static function listar(){
+            
+        }
     }
 ?>
